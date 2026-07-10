@@ -2,6 +2,10 @@
 
 > **Smart Estimation for Tomorrow's Construction.**
 
+[![ApnaGharAI Preview](https://github.com/user-attachments/assets/886e59a6-cebf-4ae7-b033-172bc93095e3)](https://apnagharhogaai.vercel.app/)
+
+**[🚀 Try the Live App Here!](https://apnagharhogaai.vercel.app/)**
+
 ApnaGharAI is a reality-aware estimation engine for rural and semi-urban home construction. Unlike standard calculators that simply multiply square footage by a base rate, ApnaGharAI utilizes a true Multi-Agent system to scrape live market data, calculate local friction (monopolies, logistics, weather delays), and provide a mathematically certain financial blueprint.
 
 ## 🏗️ Architecture: The "Split Engine"
