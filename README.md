@@ -8,6 +8,10 @@
 
 ApnaGharAI is a reality-aware estimation engine for rural and semi-urban home construction. Unlike standard calculators that simply multiply square footage by a base rate, ApnaGharAI utilizes a true Multi-Agent system to scrape live market data, calculate local friction (monopolies, logistics, weather delays), and provide a mathematically certain financial blueprint.
 
+## 💡 Why This Project is Important
+1. **Solves a Real Financial Crisis:** Families often run out of money mid-construction because standard calculators ignore hidden, real-world costs like local monopolies, bad roads, and monsoon delays. This tool prevents that by estimating the true "friction cost" of building.
+2. **Fixes AI "Math Hallucinations":** Standard AI models are terrible at math. By forcing the AI agents to only gather real-world data and letting a strict Python engine handle the calculations, this project proves that AI can be trusted with complex financial budgets without making up numbers.
+
 ## 🏗️ Architecture: The "Split Engine"
 
 To prevent AI mathematical hallucinations, the architecture strictly separates reasoning from math. Here is how the system works behind the scenes:
