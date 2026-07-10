@@ -49,10 +49,13 @@ flowchart TD
 3. **The Synthesizer (Judge Agent):** Synthesizes the data, applies circuit breakers (e.g., DIY labor nullifies weather delay costs), and generates a plain-English transcript.
 4. **The Calculator (Deterministic Math Engine):** A strict Python FastAPI/Pydantic engine that computes the final cost and monthly savings goals with absolute mathematical certainty.
 
-## 🚀 Tech Stack
-- **Frontend:** React (Vite), JavaScript, Vanilla CSS (Glassmorphism architecture)
-- **Backend:** Python, FastAPI, Uvicorn, Pydantic
-- **AI/Agents:** LangChain (Tools), `meta-llama/llama-3.1-8b-instruct:free` (OpenRouter), `gpt-oss:120b` (Ollama), `asyncio` for parallel orchestration.
+## 🚀 Tech Stack & Deployment
+- **Frontend (Deployed on [Vercel](https://apnagharhogaai.vercel.app/)):** React (Vite), JavaScript, Vanilla CSS (Glassmorphism architecture).
+- **Backend (Deployed on Render):** Python, FastAPI, Uvicorn, Pydantic.
+- **AI Engine & LLMs:** LangChain, DuckDuckGo API.
+  - **Cloud LLM:** `meta-llama/llama-3.1-8b-instruct:free` (via OpenRouter).
+  - **Local LLM:** `gpt-oss:120b` (via Ollama).
+  - **Orchestration:** Python `asyncio` for true parallel multi-agent execution.
 
 ---
 
