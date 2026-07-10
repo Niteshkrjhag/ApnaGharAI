@@ -17,7 +17,7 @@ flowchart TD
 
     User("👤 You Provide Your Village Details"):::user
     
-    subgraph AI Agents (The Researchers)
+    subgraph AIAgents [AI Agents - The Researchers]
         direction TB
         Macro("🌍 Global Expert\nChecks global steel & oil trends"):::agent
         Regional("🚚 State Expert\nChecks transport & labor costs"):::agent
