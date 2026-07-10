@@ -150,7 +150,7 @@ function App() {
     setLoadingMsg(LOADING_MESSAGES[0])
     const iv = startLoadingMessages()
     try {
-      const res = await fetch('http://localhost:8000/api/analyze', {
+      const res = await fetch('https://apnagharai.onrender.com/api/analyze', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(getPayload()),
