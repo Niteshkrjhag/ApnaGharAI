@@ -1,0 +1,38 @@
+# Environment Variables (CRITICAL: Never commit these!)
+.env
+.env.local
+.env.*.local
+
+# Python / Backend
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.npm
+package-lock.json  # Optional: Some prefer to commit this, but ignoring it is fine if you only use 'npm install' loosely, though usually it's committed. (Leaving un-ignored below, usually we just ignore node_modules)
+
+# Mac System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific temp files
+*.log
