@@ -1,12 +1,14 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/99b66cee-07e9-4fb1-9256-80435a8c0fd8" alt="ApnaGharAI Logo" width="100%" />
-</div>
+
 
 # ApnaGharAI
 
 > **Smart Estimation for Tomorrow's Construction.**
 
-[![ApnaGharAI Preview](https://github.com/user-attachments/assets/886e59a6-cebf-4ae7-b033-172bc93095e3)](https://apnagharhogaai.vercel.app/)
+<div align="center">
+  <a href="https://apnagharhogaai.vercel.app/">
+    <img src="https://github.com/user-attachments/assets/99b66cee-07e9-4fb1-9256-80435a8c0fd8" alt="ApnaGharAI Preview" width="100%" />
+  </a>
+</div>
 
 **[🚀 Try the Live App Here!](https://apnagharhogaai.vercel.app/)**
 
