@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/99b66cee-07e9-4fb1-9256-80435a8c0fd8" alt="ApnaGharAI Logo" width="300" />
+  <img src="https://github.com/user-attachments/assets/99b66cee-07e9-4fb1-9256-80435a8c0fd8" alt="ApnaGharAI Logo" width="100%" />
 </div>
 
 # ApnaGharAI
